@@ -1,0 +1,65 @@
+name: playlistkids
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #youtube_player_flutter: ^9.1.1
+  webview_flutter: ^4.2.2
+  #firebase_core: ^3.13.0
+  #cloud_firestore: ^5.6.6
+  page_curl_effect: ^1.0.2
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.9
+  cloud_firestore: ^4.8.5
+  youtube_player_flutter: ^9.0.4
+  shared_preferences: ^2.2.2
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/star.png
+    - assets/images/logo.png
+    - assets/images/googleicon1.png
+    - assets/images/appleicon.png
+    - assets/images/avatar1.png
+    - assets/images/avatar2.png
+    - assets/images/avatar3.png
+    - assets/images/game1.png
+    - assets/images/game2.png
+    - assets/images/game3.png
+    - assets/images/game4.png
+    - assets/images/game5.png
+    - assets/images/game6.png
+    - assets/images/videos.png
+    - assets/images/sonic.png
+    - assets/images/kids-books.png
+
+  fonts:
+    - family: LoveYaLikeASister
+      fonts:
+        - asset: assets/fonts/LoveYaLikeASister-Regular.ttf
+    - family: YouTube
+      fonts:
+        - asset: assets/fonts/YouTubeSansRegular.otf
+        - asset: assets/fonts/YouTubeSansBlack.otf
+          weight: 900
+    - family: Lora
+      fonts:
+        - asset: assets/fonts/Lora-Regular.ttf

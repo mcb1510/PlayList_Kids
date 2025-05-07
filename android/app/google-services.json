@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991222765204",
+    "project_id": "playlist-aaaab",
+    "storage_bucket": "playlist-aaaab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991222765204:android:4c76b44dadbcd4d0894681",
+        "android_client_info": {
+          "package_name": "com.example.playlistkids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCk_V4rt7swHRvpEuZv9CNuRvFz4HBn6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
